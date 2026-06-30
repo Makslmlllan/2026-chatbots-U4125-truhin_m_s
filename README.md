@@ -1,8 +1,4 @@
-# Vibe Coding Course
-
-Repository for laboratory works for the course:
-
-**Vibe Coding: AI-боты для бизнеса**
+# Chat bot SmartDiary
 
 ## Author
 Trukhin Maksim 
